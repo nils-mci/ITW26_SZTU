@@ -2,25 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-20T14:15:47.784899Z",
+      "created": "2026-09-20T14:16:20.861152Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-20T14:15:33.816976Z",
-      "mimetype": null,
-      "name": "sztu26_welcome.ipynb",
-      "path": "sztu26_welcome.ipynb",
-      "size": 2983,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2026-09-20T14:15:47.784514Z",
-      "format": null,
-      "hash": null,
-      "hash_algorithm": null,
-      "last_modified": "2026-09-20T14:15:33.816976Z",
+      "last_modified": "2026-09-20T14:16:09.050012Z",
       "mimetype": "text/csv",
       "name": "ChinaRegionalData2024Mini.isle.csv",
       "path": "ChinaRegionalData2024Mini.isle.csv",
@@ -29,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-20T14:15:47.784899Z",
+  "created": "2026-09-20T14:16:20.861152Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-20T14:15:47.784899Z",
+  "last_modified": "2026-09-20T14:16:20.861152Z",
   "mimetype": null,
   "name": "",
   "path": "",
